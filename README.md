@@ -1,5 +1,5 @@
 # Fundamentos do Desenvolvimento Web
-## Branch: <u>fundamentos-css3</u>
+## Branch: <u>fundamentos-js</u>
 
 ### Sumário
 1. [Descrição](#descrição)
@@ -12,26 +12,28 @@
 
 ### Sobre esta Branch
 
-Nesta _branch_ serão armazenados os códigos feitos em aula referentes aos assuntos de *_CSS3_*.
+Nesta _branch_ serão armazenados os códigos feitos em aula referentes aos assuntos de **_JavaScript (ES6)_**.
 
->_Obs_.: Para a maioria dos estudos de _CSS_ (se não todos) nós precisaremos de arquivos _HTML_. Estes arquivos serão, apenas, para podermos trabalhar o _CSS_. **Não conterão conteúdos que não estão na branch _fundamentos-html5_**
+>_Obs_.: Para alguns dos estudos de _JavaScript_ (se não todos) nós precisaremos de arquivos _HTML_. Estes arquivos serão, apenas, para podermos trabalhar a manipulação de elementos HTML utilizando _JavaScript_. **Não conterão conteúdos que não estão na branch _fundamentos-html5_**
 
 ### O que será estudado
 
-Aqui nós veremos as principais funcionalidades do _CSS_, tais como:
+Aqui nós aprenderemos sobre:
 
-- Estilizar textos
-- Alterar fundos adicionando cores e imagens
-- Posicionar elementos _HTML_
-- Responsividade
-- Ajustar tamanhos de elementos
-- Mudar o display
+- Variáveis
+- Constantes
+- String literals
+- Operadores lógicos
+- Laços de repetição
+- Estruturas condicionais
+- Funções
+- Funções Síncronas e Assíncrona
 
-Dentre outras.
+dentre outras coisas.
 
 ### Habilidades a serem desenvolvidas
 
-Aprenderemos a estilizar nossas páginas _HTML_ alterando fontes, movendo elementos, adicionando imagens, animções simples com a interação do usuário e muito mais. Nós também deixaremos nossas páginas ajustáveis a qualquer tamanho de tela, a chamada **_responsividade_**.
+Nós seremos capazer de utilizar a linguagem _JavaScript_ que nos possibilitará dar vida às nossas páginas manipulando o DOM e a criar aplicações web poderosas consumindo APIs.
 
 ### Como utilizar este repositório
 
