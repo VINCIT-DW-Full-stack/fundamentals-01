@@ -1,5 +1,5 @@
 # Fundamentos do Desenvolvimento Web
-## Branch: <u>fundamentos-html5</u>
+## Branch: <u>fundamentos-css3</u>
 
 ### Sumário
 1. [Descrição](#descrição)
@@ -12,24 +12,27 @@
 
 ### Sobre esta Branch
 
-Nesta _branch_ serão armazenados os códigos feitos em aula referentes aos assuntos de *_HTML5_*
+Nesta _branch_ serão armazenados os códigos feitos em aula referentes aos assuntos de *_CSS3_*.
+
+>_Obs_.: Para a maioria dos estudos de _CSS_ (se não todos) nós precisaremos de arquivos _HTML_. Estes arquivos serão, apenas, para podermos trabalhar o _CSS_. **Não conterão conteúdos que não estão na branch _fundamentos-html5_**
 
 ### O que será estudado
 
-Aqui nós veremos sobre as principais _TAGs HTML_ como:
+Aqui nós veremos as principais funcionalidades do _CSS_, tais como:
 
-- TAGs para formatação de textos
-- TAGs para criação de formulários
-- TAGs para criação de tabelas
-- TAGs para botões, links, imagens...
-- TAGs para estruturar nossa página de forma semântica
+- Estilizar textos
+- Alterar fundos adicionando cores e imagens
+- Posicionar elementos _HTML_
+- Responsividade
+- Ajustar tamanhos de elementos
+- Mudar o display
 
 Dentre outras.
 
 ### Habilidades a serem desenvolvidas
 
-Aprenderemos a usar as **principais TAGs**, as mais utilizadas no desenvolvimento de qualquer página Web, e estrutrar nossa página de forma **semântica** para que seja encontrada com mais facilidade pelos _mecanismos de busca (SEO)_
+Aprenderemos a estilizar nossas páginas _HTML_ alterando fontes, movendo elementos, adicionando imagens, animções simples com a interação do usuário e muito mais. Nós também deixaremos nossas páginas ajustáveis a qualquer tamanho de tela, a chamada **_responsividade_**.
 
 ### Como utilizar este repositório
 
-Os assuntos desta _branch_ estarão organizados em arquivos nomeados de acordo com o assunto abordado.
+Os assuntos desta _branch_ estarão organizados em _pastas_ nomeadas de acordo com o assunto abordado.
