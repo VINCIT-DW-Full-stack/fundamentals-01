@@ -1,0 +1,21 @@
+div{
+    font-family: sans-serif;
+}
+h1{
+    font-size: 22px;
+    text-align: center;
+}
+h2{
+    font-weight: normal;
+    font-size: 18px;
+    color: #7b5221c0;
+}
+h3{
+    text-decoration: overline;
+    font-size: 16px;
+    color: #ee0808;
+}
+p{
+    font-size: 14px;
+    line-height: 38px;
+}
