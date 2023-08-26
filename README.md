@@ -1,53 +1,35 @@
 # Fundamentos do Desenvolvimento Web
+## Aulas ao Vivo
 
 ### Sumário
 1. [Descrição](#descrição)
-    - [Sobre este repositório](#sobre-este-repositório)
+    - [Sobre esta Branch](#sobre-esta-branch)
+    - [O que será estudado](#o-que-será-estudado)
     - [Habilidades a serem desenvolvidas](#habilidades-a-serem-desenvolvidas)
 2. [Como utilizar este repositório](#como-utilizar-este-repositório)
 
 ## Descrição
 
-### Sobre Este Repositório
+### Sobre esta Branch
 
-Neste repositório serão colocados todos os códigos feitos ao vivo nas aulas de **_Fundamentos do Desenvolvimento Web_**. <br>
-Nós desenvolveremos projetos na medida que avançarmos em nossos conhecimentos sempre buscando reforçar o que já foi aprendido e praticar o que se aprendeu.
+Nesta _branch_ serão armazenados os códigos feitos em aula referentes aos assuntos de *_HTML5_*
 
 ### O que será estudado
 
-Dentro dos estudos de _Fundamentos_ nós veremos as seguintes tecnologias:
+Aqui nós veremos sobre as principais _TAGs HTML_ como:
 
-- Git e GitHub
-- HTML5
-- CSS3
-- JavaScript(ES6)
-- Jest
+- TAGs para formatação de textos
+- TAGs para criação de formulários
+- TAGs para criação de tabelas
+- TAGs para botões, links, imagens...
+- TAGs para estruturar nossa página de forma semântica
+
+Dentre outras.
 
 ### Habilidades a serem desenvolvidas
 
-Nós desenvolveremos a habilidade de criar _sites_ e _aplicações web_ responsivos interativos e que sejam capazes de se comunicar com APIs gerando grande valor e tornando nossas aplicações em poderosas ferramentas também. <br>
-Nós aprenderemos:
-
-- Construir páginas utilizando TAGs HTML
-- Estilizar elementos HTML
-- Posicionar elementos HTML
-- Adicionar responsividade às páginas HTML
-- Manipular elementos HTML através de JavaScript (DOM)
-- Consumir APIs
-- Testar aplicações web utilizando Jest (Testes unitários)
+Aprenderemos a usar as **principais TAGs**, as mais utilizadas no desenvolvimento de qualquer página Web, e estrutrar nossa página de forma **semântica** para que seja encontrada com mais facilidade pelos _mecanismos de busca (SEO)_
 
 ### Como utilizar este repositório
 
-Os conteúdos estarão organizados em _branches_ onde cada branch será dedicada à uma tecnologia HTML5, CSS3, etc. Na branch principal estará apenas a descrição do repositório Navegue pelas branches do repositório para acessar o conteúdo pretendido.
-
-<br>
-
-#### Repositório de Exemplo:
-<img src="./img/repositorio_exemplo.png">
-
-<br>
-
-#### Exemplo de branches:
-<img src="./img/branches_exemplo.png">
-
-> Na imagem acima temos um exemplo de branches que teremos. Ao selecionar uma branch você verá os conteúdos referentes à tal branch.
+Os assuntos desta _branch_ estarão organizados em arquivos nomeados de acordo com o assunto abordado.
