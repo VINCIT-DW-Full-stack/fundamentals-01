@@ -1,53 +1,33 @@
 # Fundamentos do Desenvolvimento Web
+## Aulas ao Vivo
 
 ### Sumário
 1. [Descrição](#descrição)
-    - [Sobre este repositório](#sobre-este-repositório)
+    - [Sobre esta Branch](#sobre-esta-branch)
+    - [O que será estudado](#o-que-será-estudado)
     - [Habilidades a serem desenvolvidas](#habilidades-a-serem-desenvolvidas)
-2. [Como utilizar este repositório](#como-utilizar-este-repositório)
+2. [Como utilizar esta branch](#como-utilizar-esta-branch)
 
 ## Descrição
 
-### Sobre Este Repositório
+### Sobre esta Branch
 
-Neste repositório serão colocados todos os códigos feitos ao vivo nas aulas de **_Fundamentos do Desenvolvimento Web_**. <br>
-Nós desenvolveremos projetos na medida que avançarmos em nossos conhecimentos sempre buscando reforçar o que já foi aprendido e praticar o que se aprendeu.
+Nesta _branch_ serão armazenados os códigos feitos em aula referentes aos assuntos de **_Fundamentos_**
 
 ### O que será estudado
 
-Dentro dos estudos de _Fundamentos_ nós veremos as seguintes tecnologias:
+Aqui nós teremos os seguintes conteúdos:
 
-- Git e GitHub
-- HTML5
-- CSS3
-- JavaScript(ES6)
-- Jest
+- Estudos de HTML5
+- Estudos de CSS3
+- Estudos de JavaScript(ES6)
+- Estudos de Jest (Ferramenta para testes)
+- Estudos de Cypress (Ferramenta para testes)
 
 ### Habilidades a serem desenvolvidas
 
-Nós desenvolveremos a habilidade de criar _sites_ e _aplicações web_ responsivos interativos e que sejam capazes de se comunicar com APIs gerando grande valor e tornando nossas aplicações em poderosas ferramentas também. <br>
-Nós aprenderemos:
+Nós aprenderemos aqui todo o fundamento para se desenvolver uma aplicação com as tecnologias puras, sem utilização de _frameworks_ ou _libs_. Nós aprenderemos a manipular o DOM com o JavaScript. Além disso tudo, nós aprendermos, também, a como criar _testes_ utilizando duas ferramentas para isto que são o _Jest_ e o _Cypress_.
 
-- Construir páginas utilizando TAGs HTML
-- Estilizar elementos HTML
-- Posicionar elementos HTML
-- Adicionar responsividade às páginas HTML
-- Manipular elementos HTML através de JavaScript (DOM)
-- Consumir APIs
-- Testar aplicações web utilizando Jest (Testes unitários)
+### Como utilizar esta branch
 
-### Como utilizar este repositório
-
-Os conteúdos estarão organizados em _branches_ onde cada branch será dedicada à uma tecnologia HTML5, CSS3, etc. Na branch principal estará apenas a descrição do repositório Navegue pelas branches do repositório para acessar o conteúdo pretendido.
-
-<br>
-
-#### Repositório de Exemplo:
-<img src="./img/repositorio_exemplo.png">
-
-<br>
-
-#### Exemplo de branches:
-<img src="./img/branches_exemplo.png">
-
-> Na imagem acima temos um exemplo de branches que teremos. Ao selecionar uma branch você verá os conteúdos referentes à tal branch.
+Nós teremos aqui, até então, duas pastas chamadas *web_full* com o nome de cada monitor no fim indicando qual pasta é utilizada por quem nas aulas. Dentro destas pastas nós teremos outras pastas separando os conteúdos de cada aula recebendo em seu nome a numeração referente à aula.
